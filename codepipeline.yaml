@@ -44,7 +44,7 @@ Parameters:
     Default: "us-east-2"
   TestingStackName:
     Type: String
-    Default: "sam-testing"
+    Default: "sam-test[D[D[D[Dpipipeline-test"
   TestingPipelineExecutionRole:
     Type: String
     Default: "arn:aws:iam::576935772072:role/aws-sam-cli-managed-prod-pip-PipelineExecutionRole-SHGA9V35S7SO"
@@ -65,7 +65,7 @@ Parameters:
     Default: "us-east-2"
   ProdStackName:
     Type: String
-    Default: "sam-testing"
+    Default: "sam-pipeline-test"
   ProdPipelineExecutionRole:
     Type: String
     Default: "arn:aws:iam::576935772072:role/aws-sam-cli-managed-prod-pip-PipelineExecutionRole-SHGA9V35S7SO"
