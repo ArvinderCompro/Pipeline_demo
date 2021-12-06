@@ -1,0 +1,5 @@
+{
+    "SECRET_KEY": "secretkey",
+    "ENVIRONMENT": "dev-testing",
+    "MESSAGE": "heyooo!!"
+  }
